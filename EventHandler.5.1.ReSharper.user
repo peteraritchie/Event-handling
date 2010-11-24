@@ -7,8 +7,70 @@
     </boolean>
   </SettingsComponent>
   <RecentFiles>
-    <RecentFiles />
-    <RecentEdits />
+    <RecentFiles>
+      <File id="A852309C-564E-47DC-B046-A7183F295D25/f:ProjectionHost.cs" caret="0" fromTop="0" />
+      <File id="A852309C-564E-47DC-B046-A7183F295D25/f:TypeFinder.cs" caret="540" fromTop="16" />
+      <File id="B4EBBFC1-A4B7-4F90-86CF-B73E1E6674B1/f:IQueue.cs" caret="0" fromTop="0" />
+      <File id="B4EBBFC1-A4B7-4F90-86CF-B73E1E6674B1/f:InMemQueue.cs" caret="0" fromTop="0" />
+      <File id="B4EBBFC1-A4B7-4F90-86CF-B73E1E6674B1/f:Extensions.cs" caret="513" fromTop="18" />
+      <File id="B4EBBFC1-A4B7-4F90-86CF-B73E1E6674B1/f:EventAggregator.cs" caret="0" fromTop="0" />
+      <File id="B4EBBFC1-A4B7-4F90-86CF-B73E1E6674B1/f:CriticalSection.cs" caret="0" fromTop="0" />
+      <File id="B4EBBFC1-A4B7-4F90-86CF-B73E1E6674B1/f:ActionWrappingConsumer.cs" caret="0" fromTop="0" />
+      <File id="B4EBBFC1-A4B7-4F90-86CF-B73E1E6674B1/f:ByTypeDispatcher.cs" caret="0" fromTop="0" />
+      <File id="B4EBBFC1-A4B7-4F90-86CF-B73E1E6674B1/f:Consumes.cs" caret="0" fromTop="0" />
+      <File id="B4EBBFC1-A4B7-4F90-86CF-B73E1E6674B1/f:Combiner.cs" caret="0" fromTop="0" />
+      <File id="B4EBBFC1-A4B7-4F90-86CF-B73E1E6674B1/f:NarrowingConsumer.cs" caret="0" fromTop="0" />
+      <File id="B4EBBFC1-A4B7-4F90-86CF-B73E1E6674B1/f:PipeAdapter.cs" caret="167" fromTop="5" />
+      <File id="B4EBBFC1-A4B7-4F90-86CF-B73E1E6674B1/f:QueueReader.cs" caret="0" fromTop="0" />
+      <File id="B4EBBFC1-A4B7-4F90-86CF-B73E1E6674B1/f:QueueWriter.cs" caret="0" fromTop="0" />
+      <File id="B4EBBFC1-A4B7-4F90-86CF-B73E1E6674B1/f:ThreadBoundary.cs" caret="566" fromTop="21" />
+      <File id="B4EBBFC1-A4B7-4F90-86CF-B73E1E6674B1/f:UnableToAcquireLockException.cs" caret="0" fromTop="0" />
+      <File id="B4EBBFC1-A4B7-4F90-86CF-B73E1E6674B1/f:WideningConsumer.cs" caret="0" fromTop="0" />
+      <File id="B4EBBFC1-A4B7-4F90-86CF-B73E1E6674B1/f:BufferMessages.cs" caret="807" fromTop="37" />
+      <File id="B4EBBFC1-A4B7-4F90-86CF-B73E1E6674B1/f:Multiplexor.cs" caret="0" fromTop="0" />
+      <File id="B4EBBFC1-A4B7-4F90-86CF-B73E1E6674B1/f:Message.cs" caret="40" fromTop="2" />
+      <File id="0452212F-EB0E-43AB-80EA-48AF7656B7B4/d:Messages/f:OtherMessage.cs" caret="80" fromTop="9" />
+      <File id="0452212F-EB0E-43AB-80EA-48AF7656B7B4/d:Messages/f:TestMessage.cs" caret="32" fromTop="2" />
+      <File id="0452212F-EB0E-43AB-80EA-48AF7656B7B4/f:ByTypeDispatcherTests.cs" caret="93" fromTop="6" />
+      <File id="0452212F-EB0E-43AB-80EA-48AF7656B7B4/f:ConsumerFixture.cs" caret="432" fromTop="17" />
+      <File id="0452212F-EB0E-43AB-80EA-48AF7656B7B4/f:MultiplexorTests.cs" caret="39" fromTop="1" />
+      <File id="0452212F-EB0E-43AB-80EA-48AF7656B7B4/f:TestConsumer.cs" caret="0" fromTop="0" />
+      <File id="0452212F-EB0E-43AB-80EA-48AF7656B7B4/f:TestConsumerTests.cs" caret="2070" fromTop="94" />
+      <File id="0452212F-EB0E-43AB-80EA-48AF7656B7B4/f:WindeningConsumerTests.cs" caret="39" fromTop="1" />
+      <File id="A852309C-564E-47DC-B046-A7183F295D25/f:ActivatorProjectionCreator.cs" caret="13" fromTop="0" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="A852309C-564E-47DC-B046-A7183F295D25/f:IEventLog.cs" caret="69" fromTop="3" />
+      <File id="A852309C-564E-47DC-B046-A7183F295D25/f:IChecksumStorage.cs" caret="11" fromTop="0" />
+      <File id="A852309C-564E-47DC-B046-A7183F295D25/f:IProjectionCreator.cs" caret="29" fromTop="2" />
+      <File id="A852309C-564E-47DC-B046-A7183F295D25/f:TypeFinder.cs" caret="87" fromTop="4" />
+      <File id="B4EBBFC1-A4B7-4F90-86CF-B73E1E6674B1/f:BufferMessages.cs" caret="33" fromTop="0" />
+      <File id="B4EBBFC1-A4B7-4F90-86CF-B73E1E6674B1/f:BufferMessages.cs" caret="88" fromTop="4" />
+      <File id="B4EBBFC1-A4B7-4F90-86CF-B73E1E6674B1/f:Message.cs" caret="40" fromTop="2" />
+      <File id="0452212F-EB0E-43AB-80EA-48AF7656B7B4/f:ConsumerFixture.cs" caret="578" fromTop="15" />
+      <File id="0452212F-EB0E-43AB-80EA-48AF7656B7B4/f:ConsumerFixture.cs" caret="578" fromTop="54" />
+      <File id="0452212F-EB0E-43AB-80EA-48AF7656B7B4/f:TestConsumer.cs" caret="803" fromTop="63" />
+      <File id="0452212F-EB0E-43AB-80EA-48AF7656B7B4/f:ByTypeDispatcherTests.cs" caret="1283" fromTop="72" />
+      <File id="0452212F-EB0E-43AB-80EA-48AF7656B7B4/f:MultiplexorTests.cs" caret="2774" fromTop="128" />
+      <File id="0452212F-EB0E-43AB-80EA-48AF7656B7B4/f:MultiplexorTests.cs" caret="476" fromTop="17" />
+      <File id="0452212F-EB0E-43AB-80EA-48AF7656B7B4/f:ConsumerFixture.cs" caret="0" fromTop="0" />
+      <File id="0452212F-EB0E-43AB-80EA-48AF7656B7B4/f:TestConsumer.cs" caret="308" fromTop="13" />
+      <File id="0452212F-EB0E-43AB-80EA-48AF7656B7B4/f:TestConsumer.cs" caret="0" fromTop="0" />
+      <File id="0452212F-EB0E-43AB-80EA-48AF7656B7B4/f:TestConsumerTests.cs" caret="0" fromTop="0" />
+      <File id="0452212F-EB0E-43AB-80EA-48AF7656B7B4/f:WindeningConsumerTests.cs" caret="0" fromTop="0" />
+      <File id="0452212F-EB0E-43AB-80EA-48AF7656B7B4/f:WindeningConsumerTests.cs" caret="257" fromTop="7" />
+      <File id="0452212F-EB0E-43AB-80EA-48AF7656B7B4/d:Messages/f:OtherMessage.cs" caret="69" fromTop="4" />
+      <File id="0452212F-EB0E-43AB-80EA-48AF7656B7B4/d:Messages/f:OtherMessage.cs" caret="83" fromTop="9" />
+      <File id="0452212F-EB0E-43AB-80EA-48AF7656B7B4/d:Messages/f:TestMessage.cs" caret="224" fromTop="10" />
+      <File id="0452212F-EB0E-43AB-80EA-48AF7656B7B4/d:Messages/f:TestMessage.cs" caret="32" fromTop="2" />
+      <File id="0452212F-EB0E-43AB-80EA-48AF7656B7B4/f:ByTypeDispatcherTests.cs" caret="280" fromTop="11" />
+      <File id="0452212F-EB0E-43AB-80EA-48AF7656B7B4/f:ByTypeDispatcherTests.cs" caret="590" fromTop="19" />
+      <File id="0452212F-EB0E-43AB-80EA-48AF7656B7B4/f:ByTypeDispatcherTests.cs" caret="41" fromTop="2" />
+      <File id="0452212F-EB0E-43AB-80EA-48AF7656B7B4/f:TestConsumerTests.cs" caret="2070" fromTop="94" />
+      <File id="0452212F-EB0E-43AB-80EA-48AF7656B7B4/f:MultiplexorTests.cs" caret="39" fromTop="1" />
+      <File id="0452212F-EB0E-43AB-80EA-48AF7656B7B4/f:WindeningConsumerTests.cs" caret="85" fromTop="4" />
+      <File id="A852309C-564E-47DC-B046-A7183F295D25/f:ActivatorProjectionCreator.cs" caret="13" fromTop="0" />
+    </RecentEdits>
   </RecentFiles>
   <NAntValidationSettings>
     <NAntPath value="" />
@@ -20,4 +82,30 @@
     <NUnitInstallDir>C:\Program Files (x86)\NUnit 2.5.3\bin\net-2.0\</NUnitInstallDir>
     <UseAddins>Never</UseAddins>
   </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="public" priority="1" />
+      <Item value="static" priority="1" />
+      <Item value="Action`0" priority="0" />
+      <Item value="ThreadBoundary" priority="1" />
+      <Item value="this" priority="1" />
+      <Item value="Consumes" priority="4" />
+      <Item value="T`0" priority="0" />
+      <Item value="where" priority="1" />
+      <Item value="Message`0" priority="1" />
+      <Item value="return" priority="3" />
+      <Item value="new" priority="0" />
+      <Item value="Multiplexor" priority="0" />
+      <Item value="var" priority="0" />
+      <Item value="produces" priority="1" />
+      <Item value="multi" priority="0" />
+      <Item value="TBase`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:pvc.Core.Consumes`1">
+      <Item value="Handle`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:pvc.Core.Produces`1">
+      <Item value="AttachConsumer`0" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
 </Configuration>

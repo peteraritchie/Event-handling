@@ -46,8 +46,11 @@
     <Compile Include="Combiner.cs" />
     <Compile Include="CriticalSection.cs" />
     <Compile Include="EventAggregator.cs" />
+    <Compile Include="IMessagePublisher.cs" />
     <Compile Include="InMemQueue.cs" />
     <Compile Include="IQueue.cs" />
+    <Compile Include="MessagePublisher.cs" />
+    <Compile Include="NullConsumer.cs" />
     <Compile Include="Produces.cs" />
     <Compile Include="QueueReader.cs" />
     <Compile Include="QueueWriter.cs" />

@@ -9,7 +9,8 @@ namespace pvc.Core
 		}
 		public ActionWrappingConsumer (Action<T> action)
 		{
-			_action = action; 
+			if (action == null) throw new ArgumentNullException("action");
+			_action = action;
 		}
 	}
 }

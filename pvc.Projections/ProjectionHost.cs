@@ -32,8 +32,8 @@ namespace pvc.Projections
 						if (typeDef.Equals(typeof(Consumes<>)))
 						{
 							var messageType = genericInterface.GetGenericArguments(); 
-							MethodInfo method = typeof(EventAggregator<Message>).GetMethod("SubscribeTo");
-							MethodInfo generic = method.MakeGenericMethod(messageType);
+							var method = typeof(EventAggregator<Message>).GetMethod("SubscribeTo");
+							var generic = method.MakeGenericMethod(messageType);
 							generic.Invoke(_aggregator, new [] {projector});
 						}
 					}

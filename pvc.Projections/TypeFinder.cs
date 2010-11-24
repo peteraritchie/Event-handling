@@ -12,7 +12,7 @@ namespace pvc.Projections
 			return (from assembly in assemblies
 			        from item in assembly.GetTypes()
 			        where !item.IsAbstract && item.IsClass && item.GetCustomAttributes(typeof (TAttribute), false).Length > 0
-			        select item).ToList();
+			        select item);
 		}
 	}
 }

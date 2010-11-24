@@ -13,7 +13,7 @@ namespace pvc.Tests
 		protected TMessage published;
 		
 		[SetUp]
-		public void SetUp() {
+		public virtual void SetUp() {
 			consumer = GivenConsumer();
 			try {
 				published = When();

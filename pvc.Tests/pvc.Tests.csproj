@@ -10,6 +10,10 @@
     <RootNamespace>pvc.Tests</RootNamespace>
     <AssemblyName>pvc.Tests</AssemblyName>
     <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <SccProjectName>SAK</SccProjectName>
+    <SccLocalPath>SAK</SccLocalPath>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccProvider>SAK</SccProvider>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -38,6 +42,7 @@
     <Reference Include="System.Core" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ActionWrappingConsumerTests.cs" />
     <Compile Include="AssemblyInfo.cs" />
     <Compile Include="Messages\BaseMessage.cs" />
     <Compile Include="MultiplexorTests.cs" />
@@ -52,7 +57,7 @@
   <ItemGroup>
     <ProjectReference Include="..\pvc.Core\pvc.Core.csproj">
       <Project>{B4EBBFC1-A4B7-4F90-86CF-B73E1E6674B1}</Project>
-      <Name>EventHandler</Name>
+      <Name>pvc.Core</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />

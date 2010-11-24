@@ -12,7 +12,6 @@ namespace pvc.Tests
 		
 		protected override Consumes<TestMessage> GivenConsumer ()
 		{
-			
 			firstConsumer = new TestConsumer<TestMessage>();
 			secondConsumer = new TestConsumer<TestMessage>();
 			var m = new Multiplexor<TestMessage>(new [] {firstConsumer, secondConsumer});
