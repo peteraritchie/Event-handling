@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pvc.Core", "pvc.Core\pvc.Core.csproj", "{B4EBBFC1-A4B7-4F90-86CF-B73E1E6674B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pvc.Tests", "pvc.Tests\pvc.Tests.csproj", "{0452212F-EB0E-43AB-80EA-48AF7656B7B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pvc.Projections", "pvc.Projections\pvc.Projections.csproj", "{A852309C-564E-47DC-B046-A7183F295D25}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://tfs:8080/tfs/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = EventHandler\\EventHandler.csproj
+		SccProjectName1 = EventHandler
+		SccLocalPath1 = EventHandler
+		SccProjectUniqueName2 = EventRunner\\EventRunner.csproj
+		SccProjectName2 = EventRunner
+		SccLocalPath2 = EventRunner
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4EBBFC1-A4B7-4F90-86CF-B73E1E6674B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4EBBFC1-A4B7-4F90-86CF-B73E1E6674B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4EBBFC1-A4B7-4F90-86CF-B73E1E6674B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4EBBFC1-A4B7-4F90-86CF-B73E1E6674B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0452212F-EB0E-43AB-80EA-48AF7656B7B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0452212F-EB0E-43AB-80EA-48AF7656B7B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0452212F-EB0E-43AB-80EA-48AF7656B7B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0452212F-EB0E-43AB-80EA-48AF7656B7B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A852309C-564E-47DC-B046-A7183F295D25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A852309C-564E-47DC-B046-A7183F295D25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A852309C-564E-47DC-B046-A7183F295D25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A852309C-564E-47DC-B046-A7183F295D25}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = EventRunner\EventRunner.csproj
+		Policies = $0
+		$0.StandardHeader = $1
+		$1.inheritsSet = MITX11License
+	EndGlobalSection
+EndGlobal

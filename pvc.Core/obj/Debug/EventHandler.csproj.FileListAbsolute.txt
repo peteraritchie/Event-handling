@@ -1,0 +1,5 @@
+C:\Frende\test\EventHandler\EventHandler\obj\Debug\ResolveAssemblyReference.cache
+C:\Frende\test\EventHandler\EventHandler\bin\Debug\EventHandler.dll
+C:\Frende\test\EventHandler\EventHandler\bin\Debug\EventHandler.pdb
+C:\Frende\test\EventHandler\EventHandler\obj\Debug\EventHandler.dll
+C:\Frende\test\EventHandler\EventHandler\obj\Debug\EventHandler.pdb

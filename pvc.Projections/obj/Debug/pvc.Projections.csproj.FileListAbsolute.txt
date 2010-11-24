@@ -1,0 +1,7 @@
+C:\sode\Event-handling\pvc.Projections\bin\Debug\pvc.Projections.dll
+C:\sode\Event-handling\pvc.Projections\bin\Debug\pvc.Projections.pdb
+C:\sode\Event-handling\pvc.Projections\bin\Debug\pvc.Core.dll
+C:\sode\Event-handling\pvc.Projections\bin\Debug\pvc.Core.pdb
+C:\sode\Event-handling\pvc.Projections\obj\Debug\ResolveAssemblyReference.cache
+C:\sode\Event-handling\pvc.Projections\obj\Debug\pvc.Projections.dll
+C:\sode\Event-handling\pvc.Projections\obj\Debug\pvc.Projections.pdb

@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="/home/greg/src/EventHandler/EventHandler.Tests/bin/Debug/EventHandler.Tests.dll" total="19" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2010-10-17" time="12:47:32">
+  <environment nunit-version="2.5.7.10213" clr-version="2.0.50727.1433" os-version="Unix 2.6.32.24" platform="Unix" cwd="/home/greg/src/grensesnitt/lib/NUnit-2.5.7.10213/bin/net-2.0" machine-name="hobgoblin" user="greg" user-domain="hobgoblin" />
+  <culture-info current-culture="en-US" current-uiculture="en-US" />
+  <test-suite type="Assembly" name="/home/greg/src/EventHandler/EventHandler.Tests/bin/Debug/EventHandler.Tests.dll" executed="True" result="Success" success="True" time="0.377" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="EventHandler" executed="True" result="Success" success="True" time="0.365" asserts="0">
+        <results>
+          <test-suite type="Namespace" name="Tests" executed="True" result="Success" success="True" time="0.361" asserts="0">
+            <results>
+              <test-suite type="TestFixture" name="when_a_test_consumer_is_constructed" executed="True" result="Success" success="True" time="0.056" asserts="0">
+                <results>
+                  <test-case name="EventHandler.Tests.when_a_test_consumer_is_constructed.only_message_received_throws_no_messages_received_exception" executed="True" result="Success" success="True" time="0.005" asserts="0" />
+                  <test-case name="EventHandler.Tests.when_a_test_consumer_is_constructed.times_called_is_zero" executed="True" result="Success" success="True" time="0.013" asserts="1" />
+                  <test-case name="EventHandler.Tests.when_a_test_consumer_is_constructed.was_called_is_set_to_false" executed="True" result="Success" success="True" time="0.002" asserts="1" />
+                </results>
+              </test-suite>
+              <test-suite type="TestFixture" name="when_dispatching_a_message" executed="True" result="Success" success="True" time="0.047" asserts="0">
+                <results>
+                  <test-case name="EventHandler.Tests.when_dispatching_a_message.base_subscribed_consumer_receives_correct_message" executed="True" result="Success" success="True" time="0.019" asserts="1" />
+                  <test-case name="EventHandler.Tests.when_dispatching_a_message.exactly_subscribed_consumer_receives_correct_message" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                  <test-case name="EventHandler.Tests.when_dispatching_a_message.other_consumer_did_not_receive_message" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                </results>
+              </test-suite>
+              <test-suite type="TestFixture" name="when_multiplexing_to_multiple_attached_consumers" executed="True" result="Success" success="True" time="0.016" asserts="0">
+                <results>
+                  <test-case name="EventHandler.Tests.when_multiplexing_to_multiple_attached_consumers.first_consumer_received_only_correct_message" executed="True" result="Success" success="True" time="0.002" asserts="1" />
+                  <test-case name="EventHandler.Tests.when_multiplexing_to_multiple_attached_consumers.second_consumer_received_only_correct_message" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                </results>
+              </test-suite>
+              <test-suite type="TestFixture" name="when_multiplexing_to_multiple_constructed_consumers" executed="True" result="Success" success="True" time="0.021" asserts="0">
+                <results>
+                  <test-case name="EventHandler.Tests.when_multiplexing_to_multiple_constructed_consumers.first_consumer_received_only_correct_message" executed="True" result="Success" success="True" time="0.004" asserts="1" />
+                  <test-case name="EventHandler.Tests.when_multiplexing_to_multiple_constructed_consumers.second_consumer_received_only_correct_message" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                </results>
+              </test-suite>
+              <test-suite type="TestFixture" name="when_multiplexing_to_removed_consumer" executed="True" result="Success" success="True" time="0.018" asserts="0">
+                <results>
+                  <test-case name="EventHandler.Tests.when_multiplexing_to_removed_consumer.attached_consumer_received_correct_message" executed="True" result="Success" success="True" time="0.003" asserts="1" />
+                  <test-case name="EventHandler.Tests.when_multiplexing_to_removed_consumer.removed_consumer_does_not_receive_message" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                </results>
+              </test-suite>
+              <test-suite type="TestFixture" name="when_test_consumer_receives_a_single_message" executed="True" result="Success" success="True" time="0.031" asserts="0">
+                <results>
+                  <test-case name="EventHandler.Tests.when_test_consumer_receives_a_single_message.only_message_received_returns_proper_message" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+                  <test-case name="EventHandler.Tests.when_test_consumer_receives_a_single_message.times_called_is_one" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                  <test-case name="EventHandler.Tests.when_test_consumer_receives_a_single_message.was_called_is_set_to_true" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+                </results>
+              </test-suite>
+              <test-suite type="TestFixture" name="when_test_consumer_receives_two_messages" executed="True" result="Success" success="True" time="0.036" asserts="0">
+                <results>
+                  <test-case name="EventHandler.Tests.when_test_consumer_receives_two_messages.only_message_received_throws_too_many_messages_received_exception" executed="True" result="Success" success="True" time="0.005" asserts="0" />
+                  <test-case name="EventHandler.Tests.when_test_consumer_receives_two_messages.times_called_is_two" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                  <test-case name="EventHandler.Tests.when_test_consumer_receives_two_messages.was_called_is_set_to_true" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                </results>
+              </test-suite>
+              <test-suite type="TestFixture" name="widening_consumer_can_widen_pipeline_to_consumer_in_constructor" executed="True" result="Success" success="True" time="0.007" asserts="0">
+                <results>
+                  <test-case name="EventHandler.Tests.widening_consumer_can_widen_pipeline_to_consumer_in_constructor.consumer_receives_correct_message_with_type_widened" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+                </results>
+              </test-suite>
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

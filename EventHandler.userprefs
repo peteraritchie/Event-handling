@@ -1,0 +1,52 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" ctype="Workspace" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="EventHandler/Projections/AuditProjection.cs" ctype="Workbench">
+    <Files>
+      <File FileName="EventHandler.Tests/MultiplexorTests.cs" Line="107" Column="24" />
+      <File FileName="EventHandler/Multiplexor.cs" Line="31" Column="3" />
+      <File FileName="EventHandler.Tests/TestConsumer.cs" Line="56" Column="35" />
+      <File FileName="EventHandler.Tests/TestConsumerTests.cs" Line="64" Column="40" />
+      <File FileName="EventHandler.Tests/ConsumerFixture.cs" Line="47" Column="12" />
+      <File FileName="EventHandler/NarrowingConsumer.cs" Line="1" Column="1" />
+      <File FileName="EventHandler/PipeAdapter.cs" Line="1" Column="1" />
+      <File FileName="EventHandler/ProjectionHost.cs" Line="1" Column="1" />
+      <File FileName="EventHandler/SerializedEventLog.cs" Line="1" Column="1" />
+      <File FileName="EventHandler/ThreadBoundary.cs" Line="58" Column="2" />
+      <File FileName="EventHandler/EventAggregator.cs" Line="1" Column="1" />
+      <File FileName="EventHandler/Combiner.cs" Line="3" Column="29" />
+      <File FileName="EventHandler.Tests/ByTypeDispatcherTests.cs" Line="71" Column="1" />
+      <File FileName="EventHandler.Tests/Messages/TestMessage.cs" Line="1" Column="1" />
+      <File FileName="EventHandler.Tests/Messages/OtherMessage.cs" Line="28" Column="2" />
+      <File FileName="EventHandler.Tests/WindeningConsumerTests.cs" Line="38" Column="10" />
+      <File FileName="EventHandler/QueueWriter.cs" Line="1" Column="1" />
+      <File FileName="EventHandler/ActionWrappingConsumer.cs" Line="1" Column="1" />
+      <File FileName="EventHandler/BufferMessagesConsumer.cs" Line="3" Column="1" />
+      <File FileName="EventHandler/TypeFinder.cs" Line="1" Column="1" />
+      <File FileName="EventHandler/Projections/AuditProjection.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="EventHandler" expanded="True">
+            <Node name="References" expanded="True" />
+            <Node name="Messages" expanded="True" />
+            <Node name="Projections" expanded="True">
+              <Node name="AuditProjection.cs" selected="True" />
+            </Node>
+          </Node>
+          <Node name="EventHandler.Tests" expanded="True">
+            <Node name="Messages" expanded="True" />
+          </Node>
+          <Node name="EventRunner" expanded="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/home/greg/src/EventHandler/EventHandler/IPipeline.cs" line="4" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches ctype="PinnedWatchStore" />
+  <AuthorInfo Name="Greg Young" Email="gregoryyoung1@gmail.com" Copyright="Greg Young" ctype="AuthorInformation" />
+</Properties>

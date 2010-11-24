@@ -1,0 +1,4 @@
+/home/greg/src/EventHandler/EventHandler/obj/Debug/EventHandler.dll
+/home/greg/src/EventHandler/EventHandler/bin/Debug/EventHandler.dll.mdb
+/home/greg/src/EventHandler/EventHandler/bin/Debug/EventHandler.dll
+/home/greg/src/EventHandler/EventHandler/obj/Debug/EventHandler.dll.mdb

@@ -1,0 +1,11 @@
+C:\Frende\test\EventHandler\EventRunner\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Frende\test\EventHandler\EventRunner\bin\Debug\EventRunner.exe
+C:\Frende\test\EventHandler\EventRunner\bin\Debug\EventRunner.pdb
+C:\Frende\test\EventHandler\EventRunner\obj\x86\Debug\EventRunner.exe
+C:\Frende\test\EventHandler\EventRunner\obj\x86\Debug\EventRunner.pdb
+C:\Frende\test\EventHandler\EventRunner\bin\Debug\EventRunner.exe.config
+C:\Frende\test\EventHandler\EventRunner\bin\Debug\EventHandler.dll
+C:\Frende\test\EventHandler\EventRunner\bin\Debug\EventHandler.pdb
+C:\sode\Event-handling\EventRunner\bin\Debug\EventRunner.exe.config
+C:\sode\Event-handling\EventRunner\obj\x86\Debug\EventRunner.exe
+C:\sode\Event-handling\EventRunner\obj\x86\Debug\EventRunner.pdb

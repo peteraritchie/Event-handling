@@ -1,0 +1,6 @@
+<Modules>
+  <Module PersistentId="E4095CBD-4C89-4468-A8D1-DC751AFB2A0E" ModuleId="EventRunner" />
+  <Module PersistentId="B4EBBFC1-A4B7-4F90-86CF-B73E1E6674B1" ModuleId="pvc.Core" />
+  <Module PersistentId="A852309C-564E-47DC-B046-A7183F295D25" ModuleId="pvc.Projections" />
+  <Module PersistentId="0452212F-EB0E-43AB-80EA-48AF7656B7B4" ModuleId="pvc.Tests" />
+</Modules>

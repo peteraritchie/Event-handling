@@ -1,0 +1,3 @@
+/home/greg/src/EventHandler/EventRunner/obj/x86/Debug/EventRunner.exe
+/home/greg/src/EventHandler/EventRunner/bin/Debug/EventHandler.dll
+/home/greg/src/EventHandler/EventRunner/bin/Debug/EventHandler.dll.mdb

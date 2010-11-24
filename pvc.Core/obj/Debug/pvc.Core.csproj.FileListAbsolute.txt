@@ -1,0 +1,5 @@
+C:\sode\Event-handling\pvc.Core\bin\Debug\pvc.Core.dll
+C:\sode\Event-handling\pvc.Core\bin\Debug\pvc.Core.pdb
+C:\sode\Event-handling\pvc.Core\obj\Debug\ResolveAssemblyReference.cache
+C:\sode\Event-handling\pvc.Core\obj\Debug\pvc.Core.dll
+C:\sode\Event-handling\pvc.Core\obj\Debug\pvc.Core.pdb

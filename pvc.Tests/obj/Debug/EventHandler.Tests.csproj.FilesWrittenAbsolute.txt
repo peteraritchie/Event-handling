@@ -1,0 +1,7 @@
+/home/greg/src/EventHandler/EventHandler.Tests/bin/Debug/nunit.framework.dll
+/home/greg/src/EventHandler/EventHandler.Tests/bin/Debug/EventHandler.dll
+/home/greg/src/EventHandler/EventHandler.Tests/bin/Debug/EventHandler.dll.mdb
+/home/greg/src/EventHandler/EventHandler.Tests/bin/Debug/EventHandler.Tests.dll.mdb
+/home/greg/src/EventHandler/EventHandler.Tests/bin/Debug/EventHandler.Tests.dll
+/home/greg/src/EventHandler/EventHandler.Tests/obj/Debug/EventHandler.Tests.dll
+/home/greg/src/EventHandler/EventHandler.Tests/obj/Debug/EventHandler.Tests.dll.mdb
