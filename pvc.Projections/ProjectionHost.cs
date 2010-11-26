@@ -1,3 +1,4 @@
+using System;
 using System.Reflection;
 using pvc.Core;
 
@@ -39,6 +40,11 @@ namespace pvc.Projections
 					}
 				}
 			}		
+		}
+
+		public void AddAssembly(string assembly)
+		{
+			Assembly.LoadFrom(assembly);
 		}
 	}
 }
